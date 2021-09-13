@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">place</string>
+    <string name="the_question">where do you want to go ?</string>
+    <string name="vacation">suggested picnic places</string>
+    <string name="button1">next</string>
+    <string name="button2">random</string>
+    <string name="button3">back</string>
+    <string name="string1">Go bowling</string>
+    <string name="string2">Go see a movie</string>
+    <string name="string3">Go for coffee</string>
+    <string name="string4">Go to the park</string>
+    <string name="string5">Go swimming</string>
+    <string name="string6">Go to eat</string>
+    <string name="string7">Go watch the match</string>
+    <string name="string8">Go play trapolis</string>
+
+</resources>
